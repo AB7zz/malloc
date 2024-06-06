@@ -3,3 +3,11 @@
 ## PHASE 1 - Learn what is malloc
 
 - Created a test.c to deeply understand how malloc works
+
+## PHASE 2 - Linear allocation
+
+- Allocate
+
+## PHASE 3 - Linear de-allocation
+
+- De-allocate
