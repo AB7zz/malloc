@@ -13,3 +13,7 @@
 
 - Find
 - De-allocate
+
+## PHASE 4 - Merge consequent chunks
+
+- Merge
