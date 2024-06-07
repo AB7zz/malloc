@@ -7,7 +7,9 @@
 ## PHASE 2 - Linear allocation
 
 - Allocate
+- Sort
 
 ## PHASE 3 - Linear de-allocation
 
+- Find
 - De-allocate
