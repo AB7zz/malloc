@@ -7,13 +7,17 @@
 ## PHASE 2 - Linear allocation
 
 - Allocate
-- Sort
+- Linear Sort
 
 ## PHASE 3 - Linear de-allocation
 
-- Find
+- Binary Search
 - De-allocate
 
 ## PHASE 4 - Merge consequent chunks
 
 - Merge
+
+## PHASE 5 - Garbage Collection
+
+- Collect garbage
